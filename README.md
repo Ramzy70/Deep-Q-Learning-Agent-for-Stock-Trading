@@ -64,7 +64,7 @@ The performance of the agent is visualized through portfolio value tracking and 
 ### Running the Project
 1.  Clone the repository:
     ```bash
-    git clone [https://github.com/your-username/DQN-Stock-Trading-NumPy.git](https://github.com/your-username/DQN-Stock-Trading-NumPy.git)
+    git clone https://github.com/Ramzy70/Deep-Q-Learning-Agent-for-Stock-Trading.git
     ```
 2.  Install dependencies:
     ```bash
@@ -74,5 +74,5 @@ The performance of the agent is visualized through portfolio value tracking and 
     Run `task1-2.ipynb` to download the latest data, train the agent, and visualize the trading performance.
 
 ---
-**Authors:** Ramzi Amira & Mahmoud Abo Shukr
+**Author:** Ramzi Amira
 *M2 Machine Vision and AI, Université Paris-Saclay*
